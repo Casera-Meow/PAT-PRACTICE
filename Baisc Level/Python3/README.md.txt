@@ -1,7 +1,0 @@
-My PAT practice with  Python3：
-
-Timeline: BASICLEVEL (python3) since 07/25/2020：
-
-07/25/2020 B1001-B1004
-
-07/26/2020 B1005-B1011
